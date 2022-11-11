@@ -1,0 +1,34 @@
+{
+ "name": "jamey-dark-blue",
+ "displayName": "Mix Night Blue",
+ "description": "vscode theme x tomorrow night blue theme",
+ "version": "1.0.0",
+ "publisher": "MixNightBlue",
+ "repository": {
+  "type": "git",
+  "url": ""
+ },
+ "keywords": [
+  "theme",
+  "dark theme",
+  "blue theme",
+  "night theme",
+  "mix theme",
+  "vscode theme"
+ ],
+ "engines": {
+  "vscode": "^1.73.0"
+ },
+ "categories": [
+  "Themes"
+ ],
+ "contributes": {
+  "themes": [
+   {
+    "label": "Mix Night blue",
+    "uiTheme": "vs-dark",
+    "path": "./themes/Mix dark blue-color-theme.json"
+   }
+  ]
+ }
+}
