@@ -3,7 +3,8 @@
  "displayName": "Mix Night Blue Theme",
  "description": "vscode theme x tomorrow night blue theme",
  "version": "1.0.0",
- "publisher": "MixNightBlue",
+ "publisher": "viphakorn",
+ "icon": "images/mix-night-blue.jpg",
  "repository": {
   "type": "git",
   "url": "https://github.com/viphakorn/mix-night-blue-theme"
